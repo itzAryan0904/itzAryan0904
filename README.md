@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Aryan Shankar. I am from SRM University KTR taking B.tech CSE with specialization in Cyber Security.
-# I am really passionate about coding though still being in the very learning process of it :P .
+# Hi there 👋 My name is Aryan Shankar. I am from SRM University KTR taking B.tech CSE with specialization in Cyber Security.
+## I am really passionate about coding though still being in the very learning process of it :P .
 
-# I am looking forward to collaborate with different communities to create something that matters.
+## I am looking forward to collaborate with different communities to create something that matters.
 
 🌱 I’m currently learning Linux, C, python
 📫 How to reach me: Aryan Shankar (Linkdin)
